@@ -4,7 +4,7 @@ Welcome to the Simple Web Calculator App repository! This project is a straightf
 
 ## About the Project
 
-Blaccode, a multi-talented artist and designer, brings you this simple yet functional web calculator. It's built with HTML, CSS, and JavaScript and is perfect for those looking to understand the basics of web development and application logic.
+I brings you this simple yet functional web calculator. It's built with HTML, CSS, and JavaScript and is perfect for those looking to understand the basics of web development and application logic.
 
 ## Features
 
